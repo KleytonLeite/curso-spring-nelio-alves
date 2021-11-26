@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CursospringApplication {
 	
 	public static void mensagem() {
-		System.out.println("Ola mundo");
+		System.out.println("Application Is Runnting!!");
 	}
 
 	public static void main(String[] args) {
